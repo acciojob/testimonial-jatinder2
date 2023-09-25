@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+#main{
+	background-color: #f5f5f5;
+	padding:20px;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
+.testimonial{
+	background-color:white;
+	color:black;
+	text-style: normal;
+	border: 1px solid black;
+	Padding:10px;
+	margin:10px 10px;
+	margin-bottom:20px;
+}
+.testimonial1{
+	background-color:white;
+	color:black;
+	text-style: normal;
+	border: 1px solid black;
+	Padding:10px;
+	margin:10px 10px;
+}
